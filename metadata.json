@@ -1,0 +1,7 @@
+{
+  "name": "Nexus ERP - Sistema de Gestão Inteligente",
+  "description": "Uma plataforma completa de ERP para gestão de estoque, vendas, finanças e agendamentos, com automações de fluxo de caixa e insights baseados em IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
